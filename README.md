@@ -3,6 +3,9 @@
 阿里国际站询盘分级 Skill。基于 Anthropic Agent Skills 标准（Accio Work 与 Claude Code 通用），
 在 Accio Work 上从零编写、两轮迭代、用真实询盘对照测试。
 
+**仓库：https://github.com/Hyxxt/accio-work-skills**
+直接下载 [`inquiry-grading.zip`](inquiry-grading.zip) 即可安装到 Accio Work。
+
 ## 为什么做这个
 
 调研阿里国际站「AI 运营 / 智能体方向」岗位时，JD 要求「在 Accio Work 平台独立设计、开发、上线 Skill」，
